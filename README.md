@@ -21,7 +21,8 @@ A transaction record would be as follows:
 
 999887777 666554444 114.54 100 1415959388
 
-A flowchart showcases how the program was structured. 
+## Visualization
+This flowchart showcases how the program was structured: 
 ![image](https://github.com/JessieJessJe/order-book/blob/master/flowchart.png)
 
 ## Results
