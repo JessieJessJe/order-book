@@ -1,5 +1,6 @@
 # order-book
 A stock trading (order matching) system utilizing an order book written in C++.
+View the source code [here](https://github.com/JessieJessJe/order-book/blob/master/stocks/stocks/orderBook.cpp).
 ## Description 
 The simulated orders stream should be in a .dat/.txt file with 4 kinds of orders.
 Each order has the format:
