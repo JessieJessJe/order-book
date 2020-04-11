@@ -20,6 +20,10 @@ process the transactions and records them in an audit (transaction) file as foll
 A transaction record would be as follows:
 
 999887777 666554444 114.54 100 1415959388
+
+A flowchart showcases how the program was structured. 
+![image](https://github.com/JessieJessJe/order-book/blob/master/flowchart.png)
+
 ## Results
 Upon running the program, the following occurs:
 1. Two files are produced, a bidbook and a askbook to store the unmatched limited orders of bid and ask at the end of the process, respectively.
